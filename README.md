@@ -1,8 +1,1 @@
-# challenge_factory_2016
-
-
-![](https://openclipart.org/image/300px/svg_to_png/168636/Challenge-Accepted.png&disposition=attachment)
-
-Waiting for the summer...
-
-* [Challenge Factory](https://github.com/JAMK-IT/challenge_factory_2016/wiki)
+Tästä pääset  [Challenge Factory](https://github.com/JAMK-IT/challenge_factory_2016/wiki):n wikiin...
