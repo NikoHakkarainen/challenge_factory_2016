@@ -1,10 +1,7 @@
-## This is a Challenge Factory!
+## What is a Challenge Factory?
 
 
-![](https://openclipart.org/image/300px/svg_to_png/191170/fightinthestreet.png&disposition=attachment)
-
-
-
+Challenge Factory is a concept for working as a summer trainee for the selected projects in JAMK University of Applied Sciences. As a Challenge Factory member you get to work with research teams. Part of research team acts as mentors within Challenge Factory and gives several challenges to seize with modern working methods. LEAN Startup Methodolody, MVP, QA, Test Automation, CI and CD, Service Design, UX... did we get you interested?
 
 [Read more!](http://n4sjamk.github.io/challenge-factory.html)
 
